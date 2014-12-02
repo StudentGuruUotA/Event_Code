@@ -1,0 +1,1 @@
+C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\RSSFeed.Windows.csproj;neutral

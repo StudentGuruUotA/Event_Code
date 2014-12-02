@@ -1,0 +1,9 @@
+c:\users\jim\documents\visual studio 2013\Projects\cSharpIntroExample\cSharpIntroExample\bin\Debug\cSharpIntroExample.exe.config
+c:\users\jim\documents\visual studio 2013\Projects\cSharpIntroExample\cSharpIntroExample\bin\Debug\cSharpIntroExample.exe
+c:\users\jim\documents\visual studio 2013\Projects\cSharpIntroExample\cSharpIntroExample\bin\Debug\cSharpIntroExample.pdb
+c:\users\jim\documents\visual studio 2013\Projects\cSharpIntroExample\cSharpIntroExample\obj\Debug\cSharpIntroExample.csprojResolveAssemblyReference.cache
+c:\users\jim\documents\visual studio 2013\Projects\cSharpIntroExample\cSharpIntroExample\obj\Debug\cSharpIntroExample.exe
+c:\users\jim\documents\visual studio 2013\Projects\cSharpIntroExample\cSharpIntroExample\obj\Debug\cSharpIntroExample.pdb
+C:\Users\Giannis\Desktop\Code\intro C# code\cSharpIntroExample\cSharpIntroExample\bin\Debug\cSharpIntroExample.exe.config
+C:\Users\Giannis\Desktop\Code\intro C# code\cSharpIntroExample\cSharpIntroExample\obj\Debug\cSharpIntroExample.exe
+C:\Users\Giannis\Desktop\Code\intro C# code\cSharpIntroExample\cSharpIntroExample\obj\Debug\cSharpIntroExample.pdb

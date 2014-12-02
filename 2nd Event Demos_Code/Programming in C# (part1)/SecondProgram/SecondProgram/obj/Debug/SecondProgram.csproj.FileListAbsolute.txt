@@ -1,0 +1,18 @@
+E:\Current Work\Σύστημα POS\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe.config
+E:\Current Work\Σύστημα POS\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe
+E:\Current Work\Σύστημα POS\SecondProgram\SecondProgram\bin\Debug\SecondProgram.pdb
+E:\Current Work\Σύστημα POS\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csprojResolveAssemblyReference.cache
+E:\Current Work\Σύστημα POS\SecondProgram\SecondProgram\obj\Debug\SecondProgram.exe
+E:\Current Work\Σύστημα POS\SecondProgram\SecondProgram\obj\Debug\SecondProgram.pdb
+C:\Users\Jim\Desktop\Desktop\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe.config
+C:\Users\Jim\Desktop\Desktop\SecondProgram\SecondProgram\obj\Debug\SecondProgram.exe
+C:\Users\Jim\Desktop\Desktop\SecondProgram\SecondProgram\obj\Debug\SecondProgram.pdb
+C:\Users\Jim\Desktop\Desktop\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe
+C:\Users\Jim\Desktop\Desktop\SecondProgram\SecondProgram\bin\Debug\SecondProgram.pdb
+C:\Users\Jim\Desktop\Desktop\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Desktop\Code\intro C# code\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe.config
+C:\Users\Giannis\Desktop\Code\intro C# code\SecondProgram\SecondProgram\obj\Debug\SecondProgram.exe
+C:\Users\Giannis\Desktop\Code\intro C# code\SecondProgram\SecondProgram\obj\Debug\SecondProgram.pdb
+C:\Users\Giannis\Desktop\Code\intro C# code\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Desktop\Code\intro C# code\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe
+C:\Users\Giannis\Desktop\Code\intro C# code\SecondProgram\SecondProgram\bin\Debug\SecondProgram.pdb

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGE-LAPTOP</Machine>
+    <WindowsUser>George</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>352cf04a-2b7e-4e66-9fde-0c301ee656a5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E4A7BB66613F420C8965B1C54CBF430B2CD431F993B353F785EA7BFAD7BBB2C7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>352cf04a-2b7e-4e66-9fde-0c301ee656a5_1.0.0.0_neutral__mn0dvqpmbk0m2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>352cf04a-2b7e-4e66-9fde-0c301ee656a5_mn0dvqpmbk0m2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>352cf04a-2b7e-4e66-9fde-0c301ee656a5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=George</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-30T16:54:34.978</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\bin\Debug\RSSFeed.Windows.exe">
+      <PackagePath>RSSFeed.Windows.exe</PackagePath>
+      <Modified>2014-11-30T16:54:34.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-30T16:54:33.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-30T16:54:33.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\bin\Debug\RSSFeed.Windows.xr.xml">
+      <PackagePath>RSSFeed.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-30T16:54:33.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Documents\Visual Studio 2013\Projects\RSSFeed\RSSFeed\RSSFeed.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-30T16:54:34.588</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

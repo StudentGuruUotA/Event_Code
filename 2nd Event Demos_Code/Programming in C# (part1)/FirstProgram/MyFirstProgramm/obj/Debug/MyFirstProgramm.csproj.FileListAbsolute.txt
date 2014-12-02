@@ -1,0 +1,12 @@
+E:\Current Work\Σύστημα POS\MyFirstProgramm\MyFirstProgramm\bin\Debug\MyFirstProgramm.exe.config
+E:\Current Work\Σύστημα POS\MyFirstProgramm\MyFirstProgramm\bin\Debug\MyFirstProgramm.exe
+E:\Current Work\Σύστημα POS\MyFirstProgramm\MyFirstProgramm\bin\Debug\MyFirstProgramm.pdb
+E:\Current Work\Σύστημα POS\MyFirstProgramm\MyFirstProgramm\obj\Debug\MyFirstProgramm.csprojResolveAssemblyReference.cache
+E:\Current Work\Σύστημα POS\MyFirstProgramm\MyFirstProgramm\obj\Debug\MyFirstProgramm.exe
+E:\Current Work\Σύστημα POS\MyFirstProgramm\MyFirstProgramm\obj\Debug\MyFirstProgramm.pdb
+C:\Users\Giannis\Desktop\Code\intro C# code\FirstProgramm\MyFirstProgramm\bin\Debug\MyFirstProgramm.exe.config
+C:\Users\Giannis\Desktop\Code\intro C# code\FirstProgramm\MyFirstProgramm\obj\Debug\MyFirstProgramm.exe
+C:\Users\Giannis\Desktop\Code\intro C# code\FirstProgramm\MyFirstProgramm\obj\Debug\MyFirstProgramm.pdb
+C:\Users\Giannis\Desktop\Code\intro C# code\FirstProgramm\MyFirstProgramm\bin\Debug\MyFirstProgramm.exe
+C:\Users\Giannis\Desktop\Code\intro C# code\FirstProgramm\MyFirstProgramm\bin\Debug\MyFirstProgramm.pdb
+C:\Users\Giannis\Desktop\Code\intro C# code\FirstProgramm\MyFirstProgramm\obj\Debug\MyFirstProgramm.csprojResolveAssemblyReference.cache

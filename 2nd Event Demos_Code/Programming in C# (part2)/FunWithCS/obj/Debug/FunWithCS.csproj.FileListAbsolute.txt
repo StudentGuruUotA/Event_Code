@@ -1,0 +1,6 @@
+c:\users\v-digkan\documents\visual studio 2015\Projects\FunWithCS\FunWithCS\bin\Debug\FunWithCS.exe.config
+c:\users\v-digkan\documents\visual studio 2015\Projects\FunWithCS\FunWithCS\bin\Debug\FunWithCS.exe
+c:\users\v-digkan\documents\visual studio 2015\Projects\FunWithCS\FunWithCS\bin\Debug\FunWithCS.pdb
+c:\users\v-digkan\documents\visual studio 2015\Projects\FunWithCS\FunWithCS\obj\Debug\FunWithCS.csprojResolveAssemblyReference.cache
+c:\users\v-digkan\documents\visual studio 2015\Projects\FunWithCS\FunWithCS\obj\Debug\FunWithCS.exe
+c:\users\v-digkan\documents\visual studio 2015\Projects\FunWithCS\FunWithCS\obj\Debug\FunWithCS.pdb
